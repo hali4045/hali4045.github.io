@@ -9,6 +9,6 @@
 <body>
     <link rel="icon" href="data:,">
     <p>make sure csgo legacy is open (:</p>
-    <p><a href="steam://connect/74.91.119.186:27015">>>launch<<</a></p>
+    <!--<p><a href="steam://connect/74.91.119.186:27015">>>launch<<</a></p>-->
 </body>
 </html>
