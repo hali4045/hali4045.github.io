@@ -1,5 +1,6 @@
 <html>
 <head>
+    <img src="https://github.com/hali4045/hali4045.github.io/blob/main/killpeopleonlinelogo.gif?raw=true" alt="kill people online logo">
     <!--
     <script type="text/javascript">
         window.onload = function() {
